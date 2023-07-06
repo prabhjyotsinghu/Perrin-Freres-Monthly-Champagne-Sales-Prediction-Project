@@ -1,9 +1,3 @@
 # Perrin-Freres-Monthly-Champagne-Sales-Prediction-Project
 
-In this, have used ARIMA/SARIMA Time Series Forecasting models to predict future champagne sales prediction. 
-
-Have uploaded the csv file used for building this project too (Dataset taken from Kaggle)
-
-Have a look.
-
-Thanks !!
+In this project, used ARIMA/SARIMA Time Series Forecasting models to predict future champagne sales prediction. Used Jupyter Notebook to build the model. Also, uploaded dataset used for building the model. 
